@@ -5,7 +5,7 @@ This is a project for predicting handwritten digits using a convolutional neural
 1. Clone the repository:
 
   ```sh
-  git clone https://github.com/devic1/Mnist.git
+  git clone https://github.com/Marcus270503/RAP-Hackathon
   ```
 2. Navigate to that Directory 
   ```sh
@@ -25,5 +25,5 @@ This is a project for predicting handwritten digits using a convolutional neural
   Made by <a href="https://github.com/devic1">[Siddeshwar V A]</a> :zap:
 </p>
 <p align="center">
-  and <a href="https://github.com/Gopinathan-k">[Praveen Rajan T P]</a> :zap:
+  and <a href="https://github.com/Praveen-Rajan1808">[Praveen Rajan T P]</a> :zap:
 </p>
