@@ -1,4 +1,4 @@
-# Mnist
+# Handwritten Digit classifier
 
 This is a project for predicting handwritten digits using a convolutional neural network. To get started with the project, follow the steps below.
 
