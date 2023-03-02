@@ -22,7 +22,7 @@ This is a project for predicting handwritten digits using a convolutional neural
   
   
 <p align="center">
-  Made by <a href="https://github.com/devic1">[Siddeshwar V A]</a> :zap:
+  Made by <a href="https://github.com/Marcus270503">[Siddeshwar V A]</a> :zap:
 </p>
 <p align="center">
   and <a href="https://github.com/Praveen-Rajan1808">[Praveen Rajan T P]</a> :zap:
